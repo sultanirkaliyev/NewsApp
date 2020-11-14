@@ -1,0 +1,60 @@
+PODS:
+  - Alamofire (4.9.0)
+  - Moya (13.0.0):
+    - Moya/Core (= 13.0.0)
+  - Moya/Core (13.0.0):
+    - Alamofire (~> 4.1)
+    - Result (~> 4.1)
+  - PromiseKit (6.13.1):
+    - PromiseKit/CorePromise (= 6.13.1)
+    - PromiseKit/Foundation (= 6.13.1)
+    - PromiseKit/UIKit (= 6.13.1)
+  - PromiseKit/CorePromise (6.13.1)
+  - PromiseKit/Foundation (6.13.1):
+    - PromiseKit/CorePromise
+  - PromiseKit/UIKit (6.13.1):
+    - PromiseKit/CorePromise
+  - Realm (3.19.0):
+    - Realm/Headers (= 3.19.0)
+  - Realm/Headers (3.19.0)
+  - RealmSwift (3.19.0):
+    - Realm (= 3.19.0)
+  - Result (4.1.0)
+  - SDWebImage (3.8.3):
+    - SDWebImage/Core (= 3.8.3)
+  - SDWebImage/Core (3.8.3)
+  - SnapKit (5.0.1)
+
+DEPENDENCIES:
+  - Alamofire (= 4.9.0)
+  - Moya (= 13.0.0)
+  - PromiseKit (= 6.13.1)
+  - RealmSwift (= 3.19.0)
+  - Result (= 4.1.0)
+  - SDWebImage (= 3.8.3)
+  - SnapKit (= 5.0.1)
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - Moya
+    - PromiseKit
+    - Realm
+    - RealmSwift
+    - Result
+    - SDWebImage
+    - SnapKit
+
+SPEC CHECKSUMS:
+  Alamofire: afc3e7c6db61476cb45cdd23fed06bad03bbc321
+  Moya: 161263550064ff8a4948e8ff63137fd72a876292
+  PromiseKit: 28fda91c973cc377875d8c0ea4f973013c05b6db
+  Realm: 995d585bcf699aaff226715886c849a29dd3d07f
+  RealmSwift: 35f284a537989f2187b413e5917091948cb87a3f
+  Result: bd966fac789cc6c1563440b348ab2598cc24d5c7
+  SDWebImage: a72e880a8fe0f7fc31efe15aaed443c074d2a80c
+  SnapKit: 97b92857e3df3a0c71833cce143274bf6ef8e5eb
+
+PODFILE CHECKSUM: b9b4fffb937065da9c13e90ffcad4800ca641d1b
+
+COCOAPODS: 1.9.3
